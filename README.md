@@ -61,8 +61,8 @@ The application will open in your default web browser at http://localhost:3000.
 
 The following endpoints are used by the application:
 
-**GET /api/v1/tasks**: Retrieves all tasks.
-**POST /api/v1/tasks**: Creates a new task.
-**GET /api/v1/tasks/:id**: Retrieves task details.
-**PATCH /api/v1/tasks/:id**: Updates a task.
-**DELETE /api/v1/tasks/:id**: Deletes a task.
+- **GET /api/v1/tasks**: Retrieves all tasks.
+- **POST /api/v1/tasks**: Creates a new task.
+- **GET /api/v1/tasks/:id**: Retrieves task details.
+- **PATCH /api/v1/tasks/:id**: Updates a task.
+- **DELETE /api/v1/tasks/:id**: Deletes a task.
